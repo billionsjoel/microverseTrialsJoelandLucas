@@ -2,3 +2,37 @@ img {
     max-width: 100%;
     height: auto;
 }
+#main{
+width: 100%;
+}
+.title-container{
+background-color: silver;
+text-align: center;
+padding: 5px 0;
+}
+#img-div{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding: 5px 0;
+}
+image{
+text-align: center;
+}
+.caption{
+padding: 15px 0;
+}
+#tribute-info{
+text-align: left;
+margin-top: 5px;
+margin-left: 20%;
+}
+#tribute-info>p>ul{
+padding: 5px 0;
+}
+ul, li{
+padding: 15px 0;
+
+}
